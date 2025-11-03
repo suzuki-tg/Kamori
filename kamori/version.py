@@ -1,3 +1,4 @@
+"""Represents current userbot version"""
 # ©️ Kamori, 2021-2025
 # This file is a part of Kamori Userbot
 # 🌐 https://github.com/suzuki-tl/Kamori
